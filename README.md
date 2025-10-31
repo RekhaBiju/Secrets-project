@@ -3,7 +3,7 @@ Secrets App
 A fun Node.js web app that fetches and displays random secrets using the Secrets API!
 Built using Express.js, EJS, and Axios.
 
-Features
+**Features:**
 
 Fetches a random secret and username from an external API
 
@@ -11,7 +11,7 @@ Beautiful animated card-style UI
 
 Simple and beginner-friendly Express setup
 
-Tech Stack
+**Tech Stack:**
 
 Backend: Node.js, Express.js
 
@@ -19,22 +19,22 @@ Frontend: EJS Templates, CSS Animations
 
 API Used: App Brewery Secrets API
 
-Run Locally
+**Run Locally:**
 
-Clone this repository
+**Clone this repository**
 
 git clone https://github.com/RekhaBiju/secrets-app.git
 
 
-Install dependencies
+**Install dependencies**
 
 npm install
 
 
-Start the server
+**Start the server**
 
 node index.js
 
 
-Open your browser and visit
+**Open your browser and visit**
 http://localhost:3000
