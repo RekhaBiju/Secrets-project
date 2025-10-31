@@ -1,4 +1,3 @@
-Secrets App
 
 A fun Node.js web app that fetches and displays random secrets using the Secrets API!
 Built using Express.js, EJS, and Axios.
