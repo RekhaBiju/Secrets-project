@@ -23,7 +23,7 @@ API Used: App Brewery Secrets API
 
 **Clone this repository**
 
-git clone https://github.com/RekhaBiju/secrets-app.git
+git clone https://github.com/RekhaBiju/Secrets-project.git
 
 
 **Install dependencies**
